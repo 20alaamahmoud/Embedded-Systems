@@ -1,6 +1,14 @@
 # Embedded-Systems
 Embedded systems course (college assignments)
 
+-C Language
+-AVR microcontroller ATMega32
+-Eta32 Kit
+
+- Used Programs:
+  1) Atmel Studio
+  2) Proteus
+
 --- Assignment 1 ---
 
 Write Embedded C code using ATmega32 to control a 7-segment using two push
